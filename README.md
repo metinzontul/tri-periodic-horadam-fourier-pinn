@@ -10,5 +10,6 @@ parameter-estimation,
 discrete-dynamical-systems,
 neural-operators,
 spectral-analysis,
+Heat Map,
 python,
 pytorch
